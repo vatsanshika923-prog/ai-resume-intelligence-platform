@@ -1,0 +1,33 @@
+AI Engineer Intern
+
+Requirements:
+
+Strong knowledge of Python programming.
+
+Understanding of Machine Learning and Deep Learning concepts.
+
+Experience with TensorFlow or PyTorch.
+
+Knowledge of Natural Language Processing.
+
+Understanding of Large Language Models (LLMs).
+
+Experience working with SQL databases.
+
+Knowledge of Git and GitHub.
+
+Familiarity with Docker.
+
+Understanding of REST APIs.
+
+Good problem-solving and analytical skills.
+
+Preferred Skills:
+
+FastAPI
+
+AWS
+
+Computer Vision
+
+Generative AI

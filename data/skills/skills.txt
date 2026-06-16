@@ -1,0 +1,83 @@
+[Programming Languages]
+Python
+Java
+C++
+C
+JavaScript
+TypeScript
+Go
+Rust
+PHP
+
+[Databases]
+SQL
+MySQL
+PostgreSQL
+MongoDB
+Redis
+SQLite
+
+[Data Analysis]
+Excel
+Power BI
+Tableau
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+[Machine Learning]
+Machine Learning
+Deep Learning
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+XGBoost
+NLP
+Computer Vision
+Generative AI
+LLMs
+
+[Web Development]
+HTML
+CSS
+React
+Angular
+Node.js
+Express.js
+Django
+Flask
+FastAPI
+
+[Cloud]
+AWS
+Azure
+GCP
+
+[DevOps]
+Docker
+Kubernetes
+Jenkins
+Git
+GitHub
+CI/CD
+
+[Tools]
+Jupyter Notebook
+VS Code
+Linux
+Postman
+
+[Mobile Development]
+Android
+Flutter
+React Native
+
+[Software Engineering]
+Data Structures
+Algorithms
+OOP
+System Design
+REST API
+Microservices
