@@ -219,7 +219,7 @@ Render Deployment
 ---
 ## Architecture Diagram
 
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](docs/screenshots/architecture_diagram.png)
 
 ---
 
