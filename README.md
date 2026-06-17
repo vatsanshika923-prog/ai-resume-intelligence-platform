@@ -217,6 +217,12 @@ Render Deployment
 ```
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](docs/architecture_diagram.png)
+
+---
+
 
 ## Example Workflow
 
